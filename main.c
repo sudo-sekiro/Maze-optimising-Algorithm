@@ -54,7 +54,7 @@ while(1)
 	fflush(stdout);
 	scanf("%d %d %d %d", &distance, &l, &f, &r);
 	printf("The number you typed was %d %d %d %d\n", distance, l, f, r);
-	if(distance==420)
+	if(distance==999)
 	{
 		break;
 	}
